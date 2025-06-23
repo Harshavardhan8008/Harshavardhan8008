@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Harshavardhan8008
-- 👀 I’m interested in python,machine learning and web development
-- 🌱 I’m currently learning ...javascript,Django
-- 💞️ I’m looking to collaborate on ...projects which are based python 
+- 👋 Hi, I’m @Harshavardhan
+- 👀 I’m interested in Full Stack Web Development
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...maharsha8008@gmail.com
 
 <!---
